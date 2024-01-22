@@ -102,4 +102,17 @@ Moodles_FR {
     Moodles_WeatherMoon_Good_desc_lvl4 = "",
 	Moodles_WeatherMoon_Bad_lvl4 = "Ciel étoilé",
     Moodles_WeatherMoon_Bad_desc_lvl4 = "",
+
+	Moodles_SeasonSpring_Good_lvl4 = "Printemps",
+	Moodles_SeasonSpring_Bad_lvl4 = "Printemps",
+	Moodles_SeasonEarlySummer_Good_lvl4 = "Début de l'été",
+	Moodles_SeasonEarlySummer_Bad_lvl4 = "Début de l'été",
+	Moodles_SeasonLateSummer_Good_lvl4 = "Fin de l'été",
+	Moodles_SeasonLateSummer_Bad_lvl4 = "Fin de l'été",
+	Moodles_SeasonAutumn_Good_lvl4 = "Automne",
+	Moodles_SeasonAutumn_Bad_lvl4 = "Automne",
+	Moodles_SeasonWinter_Good_lvl4 = "Hiver",
+	Moodles_SeasonWinter_Bad_lvl4 = "Hiver",
+	Moodles_Season_Good_desc_lvl4 = "",
+	Moodles_Season_Bad_desc_lvl4 = "",
 }
